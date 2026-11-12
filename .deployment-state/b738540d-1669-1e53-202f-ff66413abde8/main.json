@@ -4,47 +4,6 @@
   "trackedBranch": "main",
   "lastObservedCommit": "2c7ac71a18ced636bf96e8f65f36cd66aa84789b",
   "lastAttemptRunId": "43231031596",
-  "lastSuccessfulRunId": "",
-  "pendingTemplates": [
-    {
-      "path": "Detections/AdFindUsage.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Detections/BulkShadowCopyDeletion.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Detections/CertutilDownloadAbuse.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Detections/EventLogClearingBurst.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Detections/InlineMshtaChildProcess.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Detections/ProcDumpLsass.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Workbooks/AttackSurfaceReduction.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Workbooks/EndpointActivity.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Workbooks/EndpointSensorHealth.bicep",
-      "lastAttemptRunId": "43231031596"
-    },
-    {
-      "path": "Workbooks/ScriptAndWmiActivity.bicep",
-      "lastAttemptRunId": "43231031596"
-    }
-  ]
+  "lastSuccessfulRunId": "43231031596",
+  "pendingTemplates": []
 }
